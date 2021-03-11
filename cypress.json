@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.alza.cz/",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "chromeWebSecurity": false
+}
